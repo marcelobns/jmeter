@@ -1,0 +1,11 @@
+{
+  "name": "jmeter",
+  "version": "1.0.0",
+  "scripts": {
+    "jmeter": "apache-jmeter-5.6.3/bin/jmeter",
+    "agent": "ServerAgent-2.2.3/startAgent.sh"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
